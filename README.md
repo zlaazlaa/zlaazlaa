@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=zlaazlaa&show_icons=true&hide_border=true">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zlaazlaa&hide_border=true">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zlaazlaa)](https://github.com/anuraghazra/github-readme-stats)
