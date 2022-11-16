@@ -9,9 +9,7 @@
 </a>
 <a>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zlaazlaa&layout=compact&title_color=fff&text_color=fff&icon_color=fff&bg_color=40,c95ec4,9479d5"/>
-</a>
-![](https://raw.githubusercontent.com/zlaazlaa/zlaazlaa/main/assets/github-contribution-grid-snake.gif)
-<a href=#><img src="contributions.svg"></a>
+![](https://github.com/zlaazlaa/zlaazlaa/blob/main/assets/github-contribution-grid-snake.gif)
 
 <p align="center"> 
   Visitor count<br>
