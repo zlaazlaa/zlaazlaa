@@ -9,7 +9,7 @@
 </a>
 <a>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zlaazlaa&layout=compact&title_color=fff&text_color=fff&icon_color=fff&bg_color=40,c95ec4,9479d5"/>
-![](https://github.com/zlaazlaa/zlaazlaa/blob/main/assets/github-contribution-grid-snake.gif)
+![](https://raw.githubusercontent.com/zlaa/zlaa/main/assets/github-contribution-grid-snake.svg)
 
 <p align="center"> 
   Visitor count<br>
