@@ -10,7 +10,7 @@
 <a>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zlaazlaa&layout=compact&title_color=fff&text_color=fff&icon_color=fff&bg_color=40,c95ec4,9479d5"/>
 <p align="center"> 
-![](https://raw.githubusercontent.com/zlaazlaa/zlaazlaa/main/assets/github-contribution-grid-snake.svg)
+<img align="center" src="https://raw.githubusercontent.com/zlaazlaa/zlaazlaa/main/assets/github-contribution-grid-snake.svg"/>
 </p>
 <p align="center"> 
   Visitor count<br>
