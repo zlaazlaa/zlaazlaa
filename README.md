@@ -1,17 +1,23 @@
-<a>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=zlaazlaa&show_icons=true&count_private=true&title_color=fff&text_color=fff&icon_color=fff&bg_color=40,c95ec3,9479d5"/>
-</a>
-<a>
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zlaazlaa&repo=LRU-cache-implement&layout=compact&title_color=fff&text_color=fff&icon_color=fff&bg_color=40,c95ec3,9479d5"/>
-</a>
-<a>
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zlaazlaa&repo=-DWA-&layout=compact&title_color=fff&text_color=fff&icon_color=fff&bg_color=40,c95ec3,9479d5"/>
-</a>
-<a>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zlaazlaa&layout=compact&title_color=fff&text_color=fff&icon_color=fff&bg_color=40,c95ec3,9479d5"/>
-<p align="center"> 
-<img align="center" src="https://raw.githubusercontent.com/zlaazlaa/zlaazlaa/main/assets/github-contribution-grid-snake.svg"/>
+<p align="center">
+  <a href="https://github.com/zlaazlaa">
+  <img src="https://github-readme-stats.vercel.app/api?username=zlaazlaa&show_icons=true&count_private=true&theme=default" alt="GitHub Stats" />
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/zlaazlaa/LRU-cache-implement">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zlaazlaa&repo=LRU-cache-implement&layout=compact&theme=default" />
+  </a>
+  <a href="https://github.com/zlaazlaa/DWA-">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zlaazlaa&repo=DWA-&layout=compact&theme=default" />
+  </a>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zlaazlaa/zlaazlaa/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zlaazlaa/zlaazlaa/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/zlaazlaa/count.svg" />
