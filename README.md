@@ -23,5 +23,5 @@
   <img src="https://profile-counter.glitch.me/zlaazlaa/count.svg" />
 </p>
 <p align="center">
-  <img src="/github-metrics.svg" alt="Metrics">
+  <img src="https://content.zlaaa.top/zlaazlaa/zlaazlaa/github-metrics.svg" alt="Metrics">
 </p>
