@@ -30,17 +30,17 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -51,7 +51,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                             </svg>
-                            Contributed to 45 repositories
+                            Contributed to 43 repositories
                         </div>
                     </section>
                 </div>
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    0 added, 0 removed
+                                    8.15k added, 189 removed
                                 </div>
                             </section>
                             <section>
@@ -222,7 +222,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    63 views in last two weeks
+                                    65 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -467,6 +467,9 @@
                                     <rect class="day" x="0" y="79" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="94" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
+                                <g transform="translate(45, 0)">
+                                    <rect class="day" x="0" y="4" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                </g>
                             </g>
                         </svg>
                     </section>
@@ -489,7 +492,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>iamdarcy/hioshop-admin</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">海风小店,开源商城,微信小程序商城管理后台,后台管理,VUE</div>
@@ -542,7 +545,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>iamdarcy/hioshop-server</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">海风小店，开源商城，微信小程序商城服务器端</div>
@@ -595,7 +598,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>iamdarcy/hioshop-miniprogram</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">微信小程序商城，开源免费商用，海风小店</div>
@@ -648,7 +651,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bao-project/bao-demos</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A guide on how to build and use a set of Bao guest configurations for various platforms</div>
@@ -710,13 +713,8 @@
                             <div class="entry">
                                 <span class="value">26</span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                6
-                                <div class="bottom">Jan.</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 7
+                                <div class="bottom">Jan.</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -777,6 +775,11 @@
                                 <span class="value"></span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 19
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                20
                             </div>
                         </div>
                     </section>
@@ -786,13 +789,8 @@
                             <div class="entry">
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                6
-                                <div class="bottom">Jan.</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 7
+                                <div class="bottom">Jan.</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -853,6 +851,11 @@
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 19
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                20
                             </div>
                         </div>
                     </section>
@@ -881,8 +884,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ca2a660</div>
-                                        <div class="message">Bug fix</div>
+                                        <div class="sha">#81be3da</div>
+                                        <div class="message">Use SAS url base64</div>
                                     </div>
                                 </div>
                             </section>
@@ -901,7 +904,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ab4a392</div>
+                                        <div class="sha">#957eeaf</div>
                                         <div class="message">Bug fix</div>
                                     </div>
                                 </div>
@@ -915,13 +918,33 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">zlaazlaa/hioshop-admin-web</span>
+                                        <span class="repo">zlaazlaa/hioshop-server</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e27cd53</div>
+                                        <div class="sha">#c6c1f48</div>
+                                        <div class="message">Use SAS url base64</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">zlaazlaa/hioshop-server</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b7f7df2</div>
                                         <div class="message">Bug fix</div>
                                     </div>
                                 </div>
@@ -935,34 +958,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">zlaazlaa/hioshop-admin-web</span>
+                                        <span class="repo">zlaazlaa/hioshop-server</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b6514a2</div>
-                                        <div class="message">Bug fix</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">zlaazlaa/hioshop-admin-web</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#4560e8a</div>
-                                        <div class="message">Bug fix</div>
+                                        <div class="sha">#d3a8d9f</div>
+                                        <div class="message">Use SAS url base64</div>
                                     </div>
                                 </div>
                             </section>
@@ -1100,7 +1103,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="78.56091718001367 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="78.77310061601641 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1424,7 +1427,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.69m out of 229m repositories</span>
+                                    <span class="gh">ranked 3.69m out of 234m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -1503,7 +1506,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.50m out of 229m repositories</span>
+                                    <span class="gh">ranked 2.50m out of 234m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 8 stars</div>
                             </div>
@@ -1591,7 +1594,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Jan 2025, 09:52:49 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Jan 2025, 09:48:12 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
