@@ -18,10 +18,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://content.zlaaa.top/zlaazlaa/zlaazlaa/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://content.zlaaa.top/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/zlaazlaa/count.svg" />
-</p>
 <p align="center">
   <img src="https://content.zlaaa.top/zlaazlaa/zlaazlaa/main/github-metrics.svg" alt="Metrics">
 </p>
